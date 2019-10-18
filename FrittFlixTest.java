@@ -1,4 +1,4 @@
-package sommerjobb2020;
+
 
 import static org.junit.Assert.*;
 
