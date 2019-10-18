@@ -1,4 +1,3 @@
-package sommerjobb2020;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
