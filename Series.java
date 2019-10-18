@@ -1,4 +1,4 @@
-package sommerjobb2020;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
